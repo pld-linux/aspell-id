@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Indonesian dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik indonezyjski (lista s³ów) dla aspella.
+S³ownik (lista s³ów) indonezyjski dla aspella.
 
 %prep
 %setup -q -n aspell5-id-%{version}-%{subv}
