@@ -1,5 +1,5 @@
 Summary:	Indonesian dictionary for aspell
-Summary(pl):	S≥ownik indonezyjski dla aspella
+Summary(pl.UTF-8):   S≈Çownik indonezyjski dla aspella
 Name:		aspell-id
 Version:	1.2
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Indonesian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik indonezyjski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik indonezyjski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-id-%{version}-%{subv}
