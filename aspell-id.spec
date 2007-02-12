@@ -1,5 +1,5 @@
 Summary:	Indonesian dictionary for aspell
-Summary(pl.UTF-8):   Słownik indonezyjski dla aspella
+Summary(pl.UTF-8):	Słownik indonezyjski dla aspella
 Name:		aspell-id
 Version:	1.2
 %define	subv	0
